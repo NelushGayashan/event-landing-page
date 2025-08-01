@@ -152,6 +152,16 @@ For feedback, issues, or suggestions:
 
 **GitHub:** [https://github.com/NelushGayashan](https://github.com/NelushGayashan)
 
+## Screenshots
+
+<img width="1431" height="780" alt="Screenshot from 2025-08-02 00-13-11" src="https://github.com/user-attachments/assets/d21533e7-da08-41a7-8aa6-7d4f716b81dd" />
+<img width="1431" height="780" alt="Screenshot from 2025-08-02 00-13-33" src="https://github.com/user-attachments/assets/c26c647b-ba87-41af-9a15-c2e36f3277f2" />
+<img width="1431" height="780" alt="Screenshot from 2025-08-02 00-14-03" src="https://github.com/user-attachments/assets/c10eeeb3-e672-4c63-9cdb-80c04defb97b" />
+<img width="1431" height="780" alt="Screenshot from 2025-08-02 00-14-24" src="https://github.com/user-attachments/assets/6111e6c2-21cd-4f50-a46c-d1b963e306e5" />
+<img width="1431" height="780" alt="Screenshot from 2025-08-02 00-14-44" src="https://github.com/user-attachments/assets/4f113e26-0771-46db-bcab-e419cbee907e" />
+<img width="1431" height="780" alt="Screenshot from 2025-08-02 00-15-22" src="https://github.com/user-attachments/assets/1353751b-ab0d-469c-8557-c5304ba3c827" />
+
+
 ---
 
 ## 📄 License
